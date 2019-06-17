@@ -1,0 +1,15 @@
+#nav {
+    background-color: blueviolet;
+    color:  white;
+    display: flex;
+}
+.NavElements {
+    flex: 1;
+    list-style-type: none;
+    font-size: 30px;
+}
+#navContainer {  display: flex;}
+
+.jumbotron {
+    align-content: center;
+}

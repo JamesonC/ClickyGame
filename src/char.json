@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "https://i.ibb.co/swT8QXW/img1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "https://i.ibb.co/w6Z0jWf/img2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "https://i.ibb.co/CwkqBsv/img3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "https://i.ibb.co/3Mgf1ZB/img4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "https://i.ibb.co/cwC3wXK/img5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "https://i.ibb.co/b3P0FZG/img6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://i.ibb.co/0GbbZVw/img7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "https://i.ibb.co/5GGqbLD/img8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "image": "https://i.ibb.co/V3KMG8v/img9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "https://i.ibb.co/0fdr1jf/img10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "image": "https://i.ibb.co/vd4HdSH/img11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "image": "https://i.ibb.co/12XLSF2/img12.jpg"
+  }
+]
